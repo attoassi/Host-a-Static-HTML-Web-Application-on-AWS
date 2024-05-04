@@ -1,3 +1,5 @@
+![ALt text](/Static_html_web_app_on_AWS_architecture.png)
+
 ## Hosting a Static Website on AWS
 
 ### Overview
