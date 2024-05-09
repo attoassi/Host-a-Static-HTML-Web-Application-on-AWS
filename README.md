@@ -10,7 +10,6 @@ This project demonstrates the process of hosting a static HTML web application o
 
 The architecture for hosting the static website on AWS involves several components and configurations:
 
-![AWS Architecture Diagram](architecture_diagram.png)
 
 ### Step-by-Step Guide
 
