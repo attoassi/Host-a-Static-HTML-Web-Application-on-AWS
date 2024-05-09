@@ -4,11 +4,11 @@
 
 ### Overview
 
-This project demonstrates the process of hosting a static HTML web application on AWS (Amazon Web Services) infrastructure. By following the steps outlined in this guide, you can set up a scalable, reliable, and secure environment for deploying your static website.
+This project demonstrates the process of hosting a static HTML web application on AWS (Amazon Web Services) infrastructure. By following the steps outlined in this guide, you can set up a scalable, reliable, fault tolerant, and secure environment for deploying your static website.
 
 ### Architecture Diagram
 
-The architecture for hosting the static website on AWS involves several components and configurations:
+The architecture for hosting the static web application on AWS involves several components and configurations:
 
 
 ### Step-by-Step Guide
@@ -99,4 +99,4 @@ systemctl start httpd
 
 ### Conclusion
 
-By following this guide and utilizing the provided deployment script, you can successfully host your static website on AWS with scalability, reliability, and security in mind. This setup ensures optimal performance and availability for your web application.
+By following this guide and utilizing the provided deployment script, you can successfully host your static web app on AWS with scalability, reliability, and security in mind. This setup ensures optimal performance and availability for your web application.
