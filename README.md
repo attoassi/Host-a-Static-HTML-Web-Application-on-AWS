@@ -1,4 +1,4 @@
-![Alt text](/Static_html_Web_App_on_AWS_Architecture.png)
+![Alt text](/Static_html_app_on_AWS_architecture.png)
 
 ## Hosting a Static Website on AWS
 
