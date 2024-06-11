@@ -13,7 +13,7 @@ The architecture for hosting the static web application on AWS involves several 
 
 ### Step-by-Step Guide
 
-Follow these steps to deploy your static website on AWS:
+Follow these steps to deploy your static webapp on AWS:
 
 1. **Configuring Virtual Private Cloud (VPC)**:
    - Set up a VPC with public and private subnets across different availability zones (AZs) for fault tolerance and scalability.
@@ -40,7 +40,7 @@ Follow these steps to deploy your static website on AWS:
    - Enable instances in private subnets to access the Internet through the NAT Gateway.
 
 9. **Hosting Website on EC2 Instances**:
-   - Deploy the static website files on EC2 instances.
+   - Deploy the static web app files on EC2 instances.
 
 10. **Employing Application Load Balancer (ALB)**:
     - Set up an ALB and a target group to evenly distribute web traffic to an Auto Scaling Group of EC2 instances across multiple AZs.
