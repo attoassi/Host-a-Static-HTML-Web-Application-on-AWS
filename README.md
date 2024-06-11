@@ -43,7 +43,7 @@ Follow these steps to deploy your static webapp on AWS:
    - Deploy the static web app files on EC2 instances.
 
 10. **Securely distributing content to your user Hosting Website on EC2 Instances**:
-   - Add an extra layer of security by using CloudFront to accelerate the delivery of your static and dynamic web content to your end users.
+    Add an extra layer of security by using CloudFront to accelerate the delivery of your static and dynamic web content to your end users.
 
 11. **Employing Application Load Balancer (ALB)**:
     - Set up an ALB and a target group to evenly distribute web traffic to an Auto Scaling Group of EC2 instances across multiple AZs.
