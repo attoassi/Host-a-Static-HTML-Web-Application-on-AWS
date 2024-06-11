@@ -42,22 +42,25 @@ Follow these steps to deploy your static webapp on AWS:
 9. **Hosting Website on EC2 Instances**:
    - Deploy the static web app files on EC2 instances.
 
-10. **Employing Application Load Balancer (ALB)**:
+10. **Securely distributing content to your user Hosting Website on EC2 Instances**:
+   - Add an extra layer of security by using CloudFront to accelerate the delivery of your static and dynamic web content to your end users.
+
+11. **Employing Application Load Balancer (ALB)**:
     - Set up an ALB and a target group to evenly distribute web traffic to an Auto Scaling Group of EC2 instances across multiple AZs.
 
-11. **Utilizing Auto Scaling Group**:
+12. **Utilizing Auto Scaling Group**:
     - Configure Auto Scaling Group to automatically manage EC2 instances, ensuring website availability, scalability, fault tolerance, and elasticity.
 
-12. **Version Control and Collaboration**:
+13. **Version Control and Collaboration**:
     - Store web files on GitHub for version control and collaboration purposes.
 
-13. **Securing Application Communications**:
+14. **Securing Application Communications**:
     - Secure application communications using AWS Certificate Manager.
 
-14. **Configuring Simple Notification Service (SNS)**:
+15. **Configuring Simple Notification Service (SNS)**:
     - Set up SNS to alert about activities within the Auto Scaling Group.
 
-15. **Domain Name Registration and DNS Setup**:
+16. **Domain Name Registration and DNS Setup**:
     - Register the domain name and configure DNS records using Route 53.
 
 ### Deployment Script
