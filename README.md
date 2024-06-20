@@ -1,5 +1,3 @@
-![Alt text](/Static_html_app_on_AWS_architecture.png)
-
 ## Hosting a Static Website on AWS
 
 ### Overview
@@ -7,6 +5,8 @@
 This project demonstrates the process of hosting a static HTML web application on AWS (Amazon Web Services) infrastructure. By following the steps outlined in this guide, you can set up a scalable, reliable, fault tolerant, and secure environment for deploying your static website.
 
 ### Architecture Diagram
+
+![Alt text](/Static_html_app_on_AWS_architecture.png)
 
 The architecture for hosting the static web application on AWS involves several components and configurations:
 
